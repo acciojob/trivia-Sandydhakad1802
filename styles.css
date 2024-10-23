@@ -1,2 +1,32 @@
-
-/* Your CSS Code here. */
+        .quiz-container {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 800px;
+        }
+        
+        .question {
+            margin-bottom: 15px;
+            font-weight: 500;
+        }
+        
+        .options {
+            margin-bottom: 20px;
+        }
+        
+        .option {
+            margin: 10px 0;
+        }
+        
+        blockquote {
+            max-width: 600px;
+            margin: 10px 0;
+            padding: 15px;
+            border-left: 8px solid #4CAF50;
+            background-color: #f8fffe;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+        
+        input[type="radio"] {
+            margin-right: 8px;
+        }
