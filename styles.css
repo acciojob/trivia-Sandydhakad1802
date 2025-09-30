@@ -13,20 +13,12 @@
             margin-bottom: 20px;
         }
         
-        .option {
-            margin: 10px 0;
-        }
-        
         blockquote {
             max-width: 600px;
-            margin: 12px;
+            margin: 10px;
             padding: 15px;
-            border-left: 8px solid #008000;
+            border-left: 8px solid green;
             background-color: #f8fffe;
             font-weight: bold;
-            margin-top: 20px;
         }
         
-        input[type="radio"] {
-            margin-right: 8px;
-        }
